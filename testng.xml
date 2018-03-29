@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Regression Suite">
+
+<listeners>
+<!--<listener class-name="com.test.automation.uiautomation.customListener.Listener"></listener>--> 
+<!--<listener class-name="com.test.automation.uiAutomation.customListener.RetryListener"></listener>--> 
+</listeners>
+  
+<test name="HomePageTest">
+    <classes>
+      <class name="com.test.automation.uiautomation.homepage.TC001_VerifyLoginwithInvalidCredentials"/>
+      <class name="com.test.automation.uiautomation.homepage.TC002_Registration"/>
+      <class name="com.test.automation.uiautomation.homepage.TC003_VerifyLoginwithvalidCredentials"/>
+      <class name="com.test.automation.uiautomation.homepage.TC004_VerifywithDifferentRecords"/>
+    </classes>
+  </test> 
+  
+  
+  <test name="AddtoCartTest">
+    <classes>
+      <class name="com.test.automation.uiautomation.addToCart.TC005_VerifyAddtoCart"/>
+ </classes>
+  </test> 
+  
+  
+</suite> 

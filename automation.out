@@ -1,0 +1,378 @@
+2018-03-26 22:46:19 INFO  TestBase:134 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (7a64715a5ec374ea957b6103a5f7b48c)] -> class name: login]
+2018-03-26 22:46:20 INFO  TestBase:134 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (7a64715a5ec374ea957b6103a5f7b48c)] -> id: email]
+2018-03-26 22:46:20 INFO  TestBase:134 - Entered Password and object is :[[ChromeDriver: chrome on XP (7a64715a5ec374ea957b6103a5f7b48c)] -> id: passwd]
+2018-03-26 22:46:21 INFO  TestBase:134 - Clicked Submit Button and object is :[[ChromeDriver: chrome on XP (7a64715a5ec374ea957b6103a5f7b48c)] -> xpath: //*[@id="SubmitLogin"]]
+2018-03-26 22:46:21 INFO  TestBase:134 - Error Message is :Authentication failed.
+2018-03-26 23:16:46 INFO  TestBase:134 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (49afd0731de1b3ecbd584881a35d2d81)] -> class name: login]
+2018-03-26 23:17:46 INFO  TestBase:134 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"email1"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 49afd0731de1b3ecbd584881a35d2d81
+*** Element info: {Using=id, value=email1}
+2018-03-26 23:19:47 INFO  TestBase:134 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (e4d3df8508b8a95d578d4fda1093cce2)] -> class name: login]
+2018-03-26 23:19:47 INFO  TestBase:134 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (e4d3df8508b8a95d578d4fda1093cce2)] -> id: email]
+2018-03-26 23:20:47 INFO  TestBase:134 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"passwd12"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: e4d3df8508b8a95d578d4fda1093cce2
+*** Element info: {Using=id, value=passwd12}
+2018-03-26 23:26:22 INFO  TestBase:134 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (8c21b423ba6c60e156dc7d610c8e6ccb)] -> class name: login]
+2018-03-26 23:26:22 INFO  TestBase:134 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (8c21b423ba6c60e156dc7d610c8e6ccb)] -> id: email]
+2018-03-26 23:27:22 INFO  TestBase:134 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"passwd12"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 8c21b423ba6c60e156dc7d610c8e6ccb
+*** Element info: {Using=id, value=passwd12}
+2018-03-26 23:30:59 INFO  TestBase:134 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (7eb30640038f0eda961c328fa429d268)] -> class name: login]
+2018-03-26 23:30:59 INFO  TestBase:134 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (7eb30640038f0eda961c328fa429d268)] -> id: email]
+2018-03-26 23:31:59 INFO  TestBase:134 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"passwd12"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 7eb30640038f0eda961c328fa429d268
+*** Element info: {Using=id, value=passwd12}
+2018-03-26 23:32:36 INFO  TestBase:134 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (f5218ed9ddee8c14bccd4fdb44970fe6)] -> class name: login]
+2018-03-26 23:32:36 INFO  TestBase:134 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (f5218ed9ddee8c14bccd4fdb44970fe6)] -> id: email]
+2018-03-26 23:33:36 INFO  TestBase:134 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"passwd12"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: f5218ed9ddee8c14bccd4fdb44970fe6
+*** Element info: {Using=id, value=passwd12}
+2018-03-26 23:34:54 INFO  TestBase:134 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (6a6c4549ccd7a6b0aa6b0d69bc941376)] -> class name: login]
+2018-03-26 23:34:54 INFO  TestBase:134 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (6a6c4549ccd7a6b0aa6b0d69bc941376)] -> id: email]
+2018-03-26 23:34:54 INFO  TestBase:134 - Entered Password and object is :[[ChromeDriver: chrome on XP (6a6c4549ccd7a6b0aa6b0d69bc941376)] -> id: passwd]
+2018-03-26 23:34:55 INFO  TestBase:134 - Clicked Submit Button and object is :[[ChromeDriver: chrome on XP (6a6c4549ccd7a6b0aa6b0d69bc941376)] -> xpath: //*[@id="SubmitLogin"]]
+2018-03-26 23:34:56 INFO  TestBase:134 - Error Message is :Authentication failed.
+2018-03-26 23:36:05 INFO  TestBase:134 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (1d8e0e317056348279365ed9b968ac01)] -> class name: login]
+2018-03-26 23:36:05 INFO  TestBase:134 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (1d8e0e317056348279365ed9b968ac01)] -> id: email]
+2018-03-26 23:36:06 INFO  TestBase:134 - Entered Password and object is :[[ChromeDriver: chrome on XP (1d8e0e317056348279365ed9b968ac01)] -> id: passwd]
+2018-03-26 23:36:07 INFO  TestBase:134 - Clicked Submit Button and object is :[[ChromeDriver: chrome on XP (1d8e0e317056348279365ed9b968ac01)] -> xpath: //*[@id="SubmitLogin"]]
+2018-03-26 23:36:07 INFO  TestBase:134 - Error Message is :Authentication failed.
+2018-03-27 00:01:38 INFO  TestBase:86 - Creating object ofchrome
+2018-03-27 00:01:44 INFO  TestBase:68 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-27 00:02:08 INFO  TestBase:86 - Creating object ofchrome
+2018-03-27 00:02:13 INFO  TestBase:68 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-27 00:02:40 INFO  TestBase:138 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (7bb8178f8c1d3b1d2089466bc58837cc)] -> class name: login]
+2018-03-27 00:02:41 INFO  TestBase:138 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (7bb8178f8c1d3b1d2089466bc58837cc)] -> id: email]
+2018-03-27 00:02:41 INFO  TestBase:138 - Entered Password and object is :[[ChromeDriver: chrome on XP (7bb8178f8c1d3b1d2089466bc58837cc)] -> id: passwd]
+2018-03-27 00:02:49 INFO  TestBase:138 - Clicked Submit Button and object is :[[ChromeDriver: chrome on XP (7bb8178f8c1d3b1d2089466bc58837cc)] -> xpath: //*[@id="SubmitLogin"]]
+2018-03-27 00:02:49 INFO  TestBase:138 - Error Message is :Authentication failed.
+2018-03-27 00:02:50 INFO  TestBase:86 - Creating object ofchrome
+2018-03-27 00:02:55 INFO  TestBase:68 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-27 00:03:31 INFO  TestBase:138 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (1fa96b0a8ed29ab2696a873a26c04ae9)] -> class name: login]
+2018-03-27 00:03:31 INFO  TestBase:138 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (1fa96b0a8ed29ab2696a873a26c04ae9)] -> id: email]
+2018-03-27 00:03:31 INFO  TestBase:138 - Entered Password and object is :[[ChromeDriver: chrome on XP (1fa96b0a8ed29ab2696a873a26c04ae9)] -> id: passwd]
+2018-03-27 00:04:33 INFO  TestBase:138 - Clicked Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="SubmitLogin"]'
+2018-03-27 00:04:41 INFO  TestBase:138 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (d51521e972dbcf990deeacf84b0cccff)] -> class name: login]
+2018-03-27 00:04:41 INFO  TestBase:138 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (d51521e972dbcf990deeacf84b0cccff)] -> id: email]
+2018-03-27 00:04:41 INFO  TestBase:138 - Entered Password and object is :[[ChromeDriver: chrome on XP (d51521e972dbcf990deeacf84b0cccff)] -> id: passwd]
+2018-03-27 22:24:21 INFO  TestBase:86 - Creating object ofchrome
+2018-03-27 22:24:24 INFO  TestBase:68 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-27 22:24:35 INFO  TestBase:86 - Creating object ofchrome
+2018-03-27 22:24:42 INFO  TestBase:68 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-27 22:24:57 INFO  TestBase:138 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (3c9bf5d61e8234f489a59507d7d07dc8)] -> class name: login]
+2018-03-27 22:24:58 INFO  TestBase:138 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (3c9bf5d61e8234f489a59507d7d07dc8)] -> id: email]
+2018-03-27 22:24:58 INFO  TestBase:138 - Entered Password and object is :[[ChromeDriver: chrome on XP (3c9bf5d61e8234f489a59507d7d07dc8)] -> id: passwd]
+2018-03-27 22:25:00 INFO  TestBase:138 - Clicked Submit Button and object is :[[ChromeDriver: chrome on XP (3c9bf5d61e8234f489a59507d7d07dc8)] -> xpath: //*[@id="SubmitLogin"]]
+2018-03-27 22:25:00 INFO  TestBase:138 - Error Message is :Authentication failed.
+2018-03-27 22:25:03 INFO  TestBase:86 - Creating object ofchrome
+2018-03-27 22:25:06 INFO  TestBase:68 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-27 22:26:21 INFO  TestBase:138 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 703e296db26dabc0c7c386b91b7f9ab9
+*** Element info: {Using=id, value=id_gender1}
+2018-03-27 22:26:24 INFO  TestBase:138 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (cf9d5a27f65de32022960cbf4049e1c9)] -> class name: login]
+2018-03-27 22:26:25 INFO  TestBase:138 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (cf9d5a27f65de32022960cbf4049e1c9)] -> id: email]
+2018-03-27 22:26:25 INFO  TestBase:138 - Entered Password and object is :[[ChromeDriver: chrome on XP (cf9d5a27f65de32022960cbf4049e1c9)] -> id: passwd]
+2018-03-27 22:27:27 INFO  TestBase:138 - Clicked Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="SubmitLogin"]'
+2018-03-27 22:27:36 INFO  TestBase:138 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (2afc7aba1398de6651490512942ae2ce)] -> class name: login]
+2018-03-27 22:27:37 INFO  TestBase:138 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (2afc7aba1398de6651490512942ae2ce)] -> id: email]
+2018-03-27 22:27:37 INFO  TestBase:138 - Entered Password and object is :[[ChromeDriver: chrome on XP (2afc7aba1398de6651490512942ae2ce)] -> id: passwd]
+2018-03-27 22:28:39 INFO  TestBase:138 - Clicked Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="SubmitLogin"]'
+2018-03-27 22:28:44 INFO  TestBase:138 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (2afc7aba1398de6651490512942ae2ce)] -> class name: login]
+2018-03-27 22:28:44 INFO  TestBase:138 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (2afc7aba1398de6651490512942ae2ce)] -> id: email]
+2018-03-27 22:28:44 INFO  TestBase:138 - Entered Password and object is :[[ChromeDriver: chrome on XP (2afc7aba1398de6651490512942ae2ce)] -> id: passwd]
+2018-03-27 22:29:46 INFO  TestBase:138 - Clicked Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="SubmitLogin"]'
+2018-03-27 22:29:49 INFO  TestBase:86 - Creating object ofchrome
+2018-03-27 22:29:53 INFO  TestBase:68 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-27 22:52:01 INFO  TestBase:94 - Creating object ofchrome
+2018-03-27 22:52:05 INFO  TestBase:76 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-28 15:59:46 INFO  TestBase:104 - Creating object ofchrome
+2018-03-28 16:00:02 INFO  TestBase:86 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-28 16:00:39 INFO  TestBase:177 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (69131362d1103b12131af9f0e8c640f5)] -> class name: login]
+2018-03-28 16:00:40 INFO  TestBase:177 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (69131362d1103b12131af9f0e8c640f5)] -> id: email]
+2018-03-28 16:00:40 INFO  TestBase:177 - Entered Password and object is :[[ChromeDriver: chrome on XP (69131362d1103b12131af9f0e8c640f5)] -> id: passwd]
+2018-03-28 16:00:41 INFO  TestBase:177 - Clicked Submit Button and object is :[[ChromeDriver: chrome on XP (69131362d1103b12131af9f0e8c640f5)] -> xpath: //*[@id="SubmitLogin"]]
+2018-03-28 16:00:41 INFO  TestBase:177 - Error Message is :Authentication failed.
+2018-03-28 16:00:44 INFO  TestBase:170 - browser closed
+2018-03-29 10:57:13 INFO  TestBase:104 - Creating object ofchrome
+2018-03-29 10:57:22 INFO  TestBase:86 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 10:57:37 INFO  TestBase:177 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (2e701fea41a8126b1c7e4cd4a118e3dc)] -> class name: login]
+2018-03-29 10:57:37 INFO  TestBase:177 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (2e701fea41a8126b1c7e4cd4a118e3dc)] -> id: email]
+2018-03-29 10:57:37 INFO  TestBase:177 - Entered Password and object is :[[ChromeDriver: chrome on XP (2e701fea41a8126b1c7e4cd4a118e3dc)] -> id: passwd]
+2018-03-29 10:57:39 INFO  TestBase:177 - Clicked Submit Button and object is :[[ChromeDriver: chrome on XP (2e701fea41a8126b1c7e4cd4a118e3dc)] -> xpath: //*[@id="SubmitLogin"]]
+2018-03-29 10:57:39 INFO  TestBase:177 - Error Message is :Authentication failed.
+2018-03-29 10:57:40 INFO  TestBase:170 - browser closed
+2018-03-29 11:02:51 INFO  TestBase:104 - Creating object ofchrome
+2018-03-29 11:02:55 INFO  TestBase:86 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:03:27 INFO  TestBase:104 - Creating object ofchrome
+2018-03-29 11:03:32 INFO  TestBase:86 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:03:45 INFO  TestBase:104 - Creating object ofchrome
+2018-03-29 11:03:49 INFO  TestBase:86 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:04:05 INFO  TestBase:177 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (981b1af9d24629f3529a2a12379b6f2f)] -> class name: login]
+2018-03-29 11:04:05 INFO  TestBase:177 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (981b1af9d24629f3529a2a12379b6f2f)] -> id: email]
+2018-03-29 11:04:05 INFO  TestBase:177 - Entered Password and object is :[[ChromeDriver: chrome on XP (981b1af9d24629f3529a2a12379b6f2f)] -> id: passwd]
+2018-03-29 11:04:07 INFO  TestBase:177 - Clicked Submit Button and object is :[[ChromeDriver: chrome on XP (981b1af9d24629f3529a2a12379b6f2f)] -> xpath: //*[@id="SubmitLogin"]]
+2018-03-29 11:04:07 INFO  TestBase:177 - Error Message is :Authentication failed.
+2018-03-29 11:04:09 INFO  TestBase:170 - browser closed
+2018-03-29 11:04:10 INFO  TestBase:104 - Creating object ofchrome
+2018-03-29 11:04:14 INFO  TestBase:86 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:05:29 INFO  TestBase:177 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: d4109b71072d7b147a255dc46bc3991b
+*** Element info: {Using=id, value=id_gender1}
+2018-03-29 11:05:30 INFO  TestBase:170 - browser closed
+2018-03-29 11:05:33 INFO  TestBase:177 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (a33029d43797428b11337b3fb9dc18dd)] -> class name: login]
+2018-03-29 11:05:33 INFO  TestBase:177 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (a33029d43797428b11337b3fb9dc18dd)] -> id: email]
+2018-03-29 11:05:33 INFO  TestBase:177 - Entered Password and object is :[[ChromeDriver: chrome on XP (a33029d43797428b11337b3fb9dc18dd)] -> id: passwd]
+2018-03-29 11:06:35 INFO  TestBase:177 - Clicked Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="SubmitLogin"]'
+2018-03-29 11:06:39 INFO  TestBase:170 - browser closed
+2018-03-29 11:06:48 INFO  TestBase:177 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (7b59eb57a48eef4e73497ef2c8890aa8)] -> class name: login]
+2018-03-29 11:06:48 INFO  TestBase:177 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (7b59eb57a48eef4e73497ef2c8890aa8)] -> id: email]
+2018-03-29 11:06:48 INFO  TestBase:177 - Entered Password and object is :[[ChromeDriver: chrome on XP (7b59eb57a48eef4e73497ef2c8890aa8)] -> id: passwd]
+2018-03-29 11:07:50 INFO  TestBase:177 - Clicked Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="SubmitLogin"]'
+2018-03-29 11:07:55 INFO  TestBase:177 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (7b59eb57a48eef4e73497ef2c8890aa8)] -> class name: login]
+2018-03-29 11:07:56 INFO  TestBase:177 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (7b59eb57a48eef4e73497ef2c8890aa8)] -> id: email]
+2018-03-29 11:07:56 INFO  TestBase:177 - Entered Password and object is :[[ChromeDriver: chrome on XP (7b59eb57a48eef4e73497ef2c8890aa8)] -> id: passwd]
+2018-03-29 11:08:57 INFO  TestBase:177 - Clicked Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="SubmitLogin"]'
+2018-03-29 11:09:01 INFO  TestBase:170 - browser closed
+2018-03-29 11:09:01 INFO  TestBase:104 - Creating object ofchrome
+2018-03-29 11:09:05 INFO  TestBase:86 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:10:29 INFO  TestBase:170 - browser closed
+2018-03-29 11:14:03 INFO  TestBase:104 - Creating object ofchrome
+2018-03-29 11:14:07 INFO  TestBase:86 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:14:17 INFO  TestBase:104 - Creating object ofchrome
+2018-03-29 11:14:22 INFO  TestBase:86 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:14:36 INFO  TestBase:104 - Creating object ofchrome
+2018-03-29 11:14:41 INFO  TestBase:86 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:14:55 INFO  TestBase:177 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (f75d2444f5ce3a5d04e177520d8f91dd)] -> class name: login]
+2018-03-29 11:14:56 INFO  TestBase:177 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (f75d2444f5ce3a5d04e177520d8f91dd)] -> id: email]
+2018-03-29 11:14:56 INFO  TestBase:177 - Entered Password and object is :[[ChromeDriver: chrome on XP (f75d2444f5ce3a5d04e177520d8f91dd)] -> id: passwd]
+2018-03-29 11:14:59 INFO  TestBase:177 - Clicked Submit Button and object is :[[ChromeDriver: chrome on XP (f75d2444f5ce3a5d04e177520d8f91dd)] -> xpath: //*[@id="SubmitLogin"]]
+2018-03-29 11:14:59 INFO  TestBase:177 - Error Message is :Authentication failed.
+2018-03-29 11:15:01 INFO  TestBase:170 - browser closed
+2018-03-29 11:15:01 INFO  TestBase:104 - Creating object ofchrome
+2018-03-29 11:15:05 INFO  TestBase:86 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:16:17 INFO  TestBase:177 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 6220f25efaf9c99bbb61de2706ee572b
+*** Element info: {Using=id, value=id_gender1}
+2018-03-29 11:16:18 INFO  TestBase:170 - browser closed
+2018-03-29 11:16:21 INFO  TestBase:177 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (8a66ebafcf66fe327cb14ea97aeb1764)] -> class name: login]
+2018-03-29 11:16:21 INFO  TestBase:177 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (8a66ebafcf66fe327cb14ea97aeb1764)] -> id: email]
+2018-03-29 11:16:21 INFO  TestBase:177 - Entered Password and object is :[[ChromeDriver: chrome on XP (8a66ebafcf66fe327cb14ea97aeb1764)] -> id: passwd]
+2018-03-29 11:17:23 INFO  TestBase:177 - Clicked Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="SubmitLogin"]'
+2018-03-29 11:17:27 INFO  TestBase:170 - browser closed
+2018-03-29 11:17:30 INFO  TestBase:177 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (6d7342b9615bfd33566d9e745bfb8e6a)] -> class name: login]
+2018-03-29 11:17:31 INFO  TestBase:177 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (6d7342b9615bfd33566d9e745bfb8e6a)] -> id: email]
+2018-03-29 11:17:31 INFO  TestBase:177 - Entered Password and object is :[[ChromeDriver: chrome on XP (6d7342b9615bfd33566d9e745bfb8e6a)] -> id: passwd]
+2018-03-29 11:18:33 INFO  TestBase:177 - Clicked Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="SubmitLogin"]'
+2018-03-29 11:18:38 INFO  TestBase:177 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (6d7342b9615bfd33566d9e745bfb8e6a)] -> class name: login]
+2018-03-29 11:18:38 INFO  TestBase:177 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (6d7342b9615bfd33566d9e745bfb8e6a)] -> id: email]
+2018-03-29 11:18:38 INFO  TestBase:177 - Entered Password and object is :[[ChromeDriver: chrome on XP (6d7342b9615bfd33566d9e745bfb8e6a)] -> id: passwd]
+2018-03-29 11:19:40 INFO  TestBase:177 - Clicked Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="SubmitLogin"]'
+2018-03-29 11:19:43 INFO  TestBase:170 - browser closed
+2018-03-29 11:19:43 INFO  TestBase:104 - Creating object ofchrome
+2018-03-29 11:19:46 INFO  TestBase:86 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:20:14 INFO  TestBase:170 - browser closed
+2018-03-29 11:27:50 INFO  TestBase:111 - Creating object ofchrome
+2018-03-29 11:27:53 INFO  TestBase:93 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:28:03 INFO  TestBase:111 - Creating object ofchrome
+2018-03-29 11:28:05 INFO  TestBase:93 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:28:25 INFO  TestBase:111 - Creating object ofchrome
+2018-03-29 11:28:30 INFO  TestBase:93 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:28:51 INFO  TestBase:184 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (48c3df0c0cc9d82e680a0d1c9d08d6b9)] -> class name: login]
+2018-03-29 11:28:52 INFO  TestBase:184 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (48c3df0c0cc9d82e680a0d1c9d08d6b9)] -> id: email]
+2018-03-29 11:28:52 INFO  TestBase:184 - Entered Password and object is :[[ChromeDriver: chrome on XP (48c3df0c0cc9d82e680a0d1c9d08d6b9)] -> id: passwd]
+2018-03-29 11:28:53 INFO  TestBase:184 - Clicked Submit Button and object is :[[ChromeDriver: chrome on XP (48c3df0c0cc9d82e680a0d1c9d08d6b9)] -> xpath: //*[@id="SubmitLogin"]]
+2018-03-29 11:28:53 INFO  TestBase:184 - Error Message is :Authentication failed.
+2018-03-29 11:28:55 INFO  TestBase:177 - browser closed
+2018-03-29 11:28:55 INFO  TestBase:111 - Creating object ofchrome
+2018-03-29 11:28:59 INFO  TestBase:93 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:30:13 INFO  TestBase:184 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: d1ea33c50b6efba7921b058fad1db57d
+*** Element info: {Using=id, value=id_gender1}
+2018-03-29 11:30:14 INFO  TestBase:177 - browser closed
+2018-03-29 11:30:17 INFO  TestBase:184 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (adf37b4bb66d49f4260ececf2dc046cf)] -> class name: login]
+2018-03-29 11:30:17 INFO  TestBase:184 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (adf37b4bb66d49f4260ececf2dc046cf)] -> id: email]
+2018-03-29 11:30:17 INFO  TestBase:184 - Entered Password and object is :[[ChromeDriver: chrome on XP (adf37b4bb66d49f4260ececf2dc046cf)] -> id: passwd]
+2018-03-29 11:31:19 INFO  TestBase:184 - Clicked Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="SubmitLogin"]'
+2018-03-29 11:31:22 INFO  TestBase:177 - browser closed
+2018-03-29 11:31:26 INFO  TestBase:184 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (62e902dd766788cce33f5d7a5d569c9e)] -> class name: login]
+2018-03-29 11:31:26 INFO  TestBase:184 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (62e902dd766788cce33f5d7a5d569c9e)] -> id: email]
+2018-03-29 11:31:26 INFO  TestBase:184 - Entered Password and object is :[[ChromeDriver: chrome on XP (62e902dd766788cce33f5d7a5d569c9e)] -> id: passwd]
+2018-03-29 11:32:28 INFO  TestBase:184 - Clicked Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="SubmitLogin"]'
+2018-03-29 11:32:33 INFO  TestBase:184 - Clicked signin Button and object is :[[ChromeDriver: chrome on XP (62e902dd766788cce33f5d7a5d569c9e)] -> class name: login]
+2018-03-29 11:32:33 INFO  TestBase:184 - Entered Email Address and object is :[[ChromeDriver: chrome on XP (62e902dd766788cce33f5d7a5d569c9e)] -> id: email]
+2018-03-29 11:32:33 INFO  TestBase:184 - Entered Password and object is :[[ChromeDriver: chrome on XP (62e902dd766788cce33f5d7a5d569c9e)] -> id: passwd]
+2018-03-29 11:33:35 INFO  TestBase:184 - Clicked Submit Button and object is :Proxy element for: DefaultElementLocator 'By.xpath: //*[@id="SubmitLogin"]'
+2018-03-29 11:33:38 INFO  TestBase:177 - browser closed
+2018-03-29 11:33:39 INFO  TestBase:111 - Creating object ofchrome
+2018-03-29 11:33:41 INFO  TestBase:93 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:34:07 INFO  TestBase:177 - browser closed
+2018-03-29 11:40:42 INFO  TestBase:111 - Creating object ofchrome
+2018-03-29 11:40:45 INFO  TestBase:93 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:42:07 INFO  TestBase:184 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 666e08f9e07ed687ba37792f0a988bc6
+*** Element info: {Using=id, value=id_gender1}
+2018-03-29 11:42:08 INFO  TestBase:177 - browser closed
+2018-03-29 11:45:02 INFO  TestBase:111 - Creating object ofchrome
+2018-03-29 11:45:05 INFO  TestBase:93 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:46:17 INFO  TestBase:184 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 78dce5c15654db057e17fade7cda57f0
+*** Element info: {Using=id, value=id_gender1}
+2018-03-29 11:46:18 INFO  TestBase:177 - browser closed
+2018-03-29 11:51:12 INFO  TestBase:111 - Creating object ofchrome
+2018-03-29 11:51:15 INFO  TestBase:93 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:52:36 INFO  TestBase:184 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 3baf95231e4cc1043151ca8a7291bc09
+*** Element info: {Using=id, value=id_gender1}
+2018-03-29 11:52:37 INFO  TestBase:177 - browser closed
+2018-03-29 11:55:46 INFO  TestBase:111 - Creating object ofchrome
+2018-03-29 11:55:50 INFO  TestBase:93 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:57:02 INFO  TestBase:184 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 07e01555bc577241cd5461e29f05e77d
+*** Element info: {Using=id, value=id_gender1}
+2018-03-29 11:57:03 INFO  TestBase:177 - browser closed
+2018-03-29 11:58:02 INFO  TestBase:111 - Creating object ofchrome
+2018-03-29 11:58:06 INFO  TestBase:93 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 11:59:19 INFO  TestBase:184 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: 6ddba96b7a34d5b3d752bcbabc5c0950
+*** Element info: {Using=id, value=id_gender1}
+2018-03-29 11:59:20 INFO  TestBase:177 - browser closed
+2018-03-29 12:05:22 INFO  TestBase:111 - Creating object ofchrome
+2018-03-29 12:05:30 INFO  TestBase:93 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 12:06:50 INFO  TestBase:184 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: a8a873c3a302596300043153a2071f4c
+*** Element info: {Using=id, value=id_gender1}
+2018-03-29 12:06:51 INFO  TestBase:177 - browser closed
+2018-03-29 12:08:08 INFO  TestBase:111 - Creating object ofchrome
+2018-03-29 12:08:11 INFO  TestBase:93 - Navigating to urlhttp://automationpractice.com/index.php
+2018-03-29 12:09:34 INFO  TestBase:184 - org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"id","selector":"id_gender1"}
+  (Session info: chrome=65.0.3325.181)
+  (Driver info: chromedriver=2.36.540470 (e522d04694c7ebea4ba8821272dbef4f9b818c91),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.10.0', revision: '176b4a9', time: '2018-03-02T19:03:16.397Z'
+System info: host: 'SANTY', ip: '192.168.56.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.36.540470 (e522d04694c7eb..., userDataDir: C:\Users\santhosh\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.181, webStorageEnabled: true}
+Session ID: bf87014ab3b1fd680ab98143c02889d6
+*** Element info: {Using=id, value=id_gender1}
+2018-03-29 12:09:34 INFO  TestBase:177 - browser closed

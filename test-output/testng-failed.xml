@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]">
+  <test name="HomePageTest(failed)">
+    <classes>
+      <class name="com.test.automation.uiautomation.homepage.TC004_VerifywithDifferentRecords">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="verifywithDifferentRecords" invocation-numbers="1 2 3 5 6"/>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.automation.uiautomation.homepage.TC004_VerifywithDifferentRecords -->
+    </classes>
+  </test> <!-- HomePageTest(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->
